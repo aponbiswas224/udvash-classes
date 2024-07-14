@@ -1,1 +1,1 @@
-# hsc-studies
+# udvash-classes
